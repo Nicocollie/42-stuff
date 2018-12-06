@@ -1,0 +1,8 @@
+{
+	"files.associations": {
+		"mman.h": "c",
+		"stdio.h": "c",
+		"math.h": "c",
+		"header.h": "c"
+	}
+}
