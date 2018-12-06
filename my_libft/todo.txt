@@ -1,0 +1,65 @@
+• memset -- done 
+• bzero -- done 
+• memcpy -- done
+• memccpy -- done
+• memmove -- done 
+• memchr -- done 
+• memcmp -- done 
+• strlen -- done
+• strdup -- done
+• strcpy -- done
+• strncpy -- done
+• strcat -- done
+• strncat -- done
+• strlcat -- done
+• strchr -- done 
+• strrchr 
+• strstr -- done
+• strnstr
+• strcmp -- done
+• strncmp -- done
+• atoi
+• isalpha -- done
+• isdigit -- done
+• isalnum -- done
+• isascii
+• isprint
+• toupper -- done
+• tolower -- done
+
+P2.		i
+
+ft_memalloc
+ft_memdel
+ft_strnew -- done
+ft_strdel  -- done
+ft_strclr
+ft_striter
+ft_striteri
+ft_strmap
+ft_strmapi -- done
+ft_strequ
+ft_strnequ
+ft_strsub  --done
+ft_strjoin -- done
+ft_strtrim
+ft_strsplit -- done
+ft_itoa
+ft_putchar -- done
+ft_putstr -- done
+ft_putendl
+ft_putnbr
+ft_putchar_fd
+ft_putstr_fd -- done
+ft_putendl_fd -- done
+ft_putnbr_fd
+
+bonus
+
+ft_lstnew
+ft_lstdelone
+ft_lstdel
+ft_lstadd
+ft_lstiter
+ft_lstmap
+
