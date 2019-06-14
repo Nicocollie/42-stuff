@@ -1,3 +1,0 @@
-/nfs/2018/n/ncollie/Desktop/42-42-42/Starfleet/grimly/how_to/cmake-build-debug/CMakeFiles/edit_cache.dir
-/nfs/2018/n/ncollie/Desktop/42-42-42/Starfleet/grimly/how_to/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/nfs/2018/n/ncollie/Desktop/42-42-42/Starfleet/grimly/how_to/cmake-build-debug/CMakeFiles/how_to.dir
